@@ -1,0 +1,5 @@
+from ggwpm8 import*
+
+def beetmeat():
+	print('"I'm going to kill myself"')
+
